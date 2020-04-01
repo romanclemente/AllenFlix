@@ -1,0 +1,7 @@
+La aplicacion requiere de un login "usuario por defecto nombre:admin,pass:admin"
+para ejecutar la aplicacion es necesario arrancar el servidor primero y posteriormente el cliente, una vez ponga
+las credenciales esperar un momento que esta cargando todos los componentes y tarda un poco, y una vez dentro te muestra dos listas
+ademas de una tabla que te permite buscar con una tabla filtrada, si te posicionas encima de una serie esta
+muestra su nombre e informacion, y ademas de un breve resumen y una vez hecho esto clickeas en esto muestra 
+la posibilidad de evaluacion de la serie, y si se pulsa en el video de fondo muestra ese trailer en una ventana totalmente el video desplegado
+es necesario la instalacion del sql en el xampp

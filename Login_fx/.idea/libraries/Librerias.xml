@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Librerias">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Login_fx/Librerias/gson-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Login_fx/Librerias/java-json.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
